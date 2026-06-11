@@ -1,0 +1,194 @@
+[
+  {
+    "task_id": "duck_cannibal_v1",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A devious white cartoon duck with hungry, glittering eyes and a wide, greedy grin, licking its beak with a pink tongue. It clutches a cartoon roasted chicken drumstick with a clean bite taken out of it (showing a pink cartoon interior) close to its face. Bold black ink outlines, comic-style hatching shadows. High contrast neon lime green lighting from below. Background of deep purple and lime green radial speed lines, clean composition, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只狡猾的小白鸭眼神饥饿闪烁，带着贪婪宽大的坏笑，用粉色舌头舔着鸟嘴。它双爪将一根被咬掉一口的卡通烤鸡腿（露出粉色卡通内里，致敬原图）紧贴在脸旁。粗黑墨水勾边，漫画风格排线阴影。高对比度霓虹青柠绿光从下方打亮。背景为深紫色与青柠绿放射线速度线，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_食鸟鸭_v1.png"
+  },
+  {
+    "task_id": "duck_cannibal_v2",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. An orange cartoon duck looking highly excited with a manic, hungry smirk, wearing a red-and-white checkered picnic bib. It holds a cartoon roasted chicken leg with a neat bite mark close to its chest. Bold black ink outlines, action-style fragmented hatching shadows. High contrast bright yellow underlighting illuminating its face. Background of royal blue and yellow sunburst speed lines with halftone dots, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只橘色卡通鸭表情极度兴奋，带着狂躁饥饿的坏笑，脖子上戴着红白格子野餐围兜。它双爪抓着一根带整齐咬痕的卡通烤鸡腿贴在胸前。粗黑墨水勾边，动作风格碎片排线阴影。高对比度明黄色光从下方打亮鸭脸。背景为宝蓝色与黄色放射线速度线，夹杂半调网点，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_食鸟鸭_v2.png"
+  },
+  {
+    "task_id": "duck_cannibal_v3",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A sneaky white cartoon duck looking guilty yet smug, with a few cartoon crumbs around its beak, hiding a cartoon bitten roasted chicken leg behind its cheek. Heavy black ink shadows covering half of its face, one sharp yellow eye gleaming with mischief. Bold outlines, retro comic print texture. High contrast hot pink lighting. Background of dark teal and pink speed rings, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只小白鸭神情心虚又得意，鸟嘴周围挂着几粒卡通碎屑，在脸颊旁藏着一根被咬过的卡通烤鸡腿。浓重的黑色墨水阴影覆盖了半张脸，一只锐利的黄色眼睛闪烁着恶作剧的光芒。粗黑轮廓，复古漫画印刷纹理。高对比度暖粉色光。背景为深青色与粉色速度环线，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_食鸟鸭_v3.png"
+  },
+  {
+    "task_id": "duck_cannibal_v4",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A yellow-white cartoon duck head looking deviously at a cartoon roasted chicken leg in the foreground that has a large bite mark (referencing the original logo). The duck has a cunning, confident expression. Bold black ink outlines, dramatic high-contrast ink-wash hatching shadows. High contrast orange glow reflecting from the roasted leg onto its face. Background of deep purple and orange concentric speed lines, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只黄白色的卡通鸭头，正狡黠地盯着前景中一根带有巨大咬痕的卡通烤鸡腿（致敬原图Logo）。鸭子神情狡猾而自信。粗黑墨水勾边，戏剧性高对比度墨水排线阴影。高对比度橙光从烤鸡腿上反射打亮鸭脸。背景为深紫色与橙色同心圆速度线，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_食鸟鸭_v4.png"
+  },
+  {
+    "task_id": "duck_cannibal_v5",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A comical yet slightly evil white cartoon duck wearing a tiny white chef's hat, looking wickedly at a cartoon roasted drumstick with a bite taken out of it. It holds a small toy-like salt shaker in its webbed hand. Bold outlines, clean comic halftone shading. High contrast cyan and magenta neon glow. Background of dark charcoal and vivid cyan radial speed lines. Clean headshot framing, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只滑稽又带点微邪恶的小白鸭戴着迷你白色厨师帽，邪恶地看着一根被咬掉一口的卡通烤鼓槌。它鸭爪里握着一个玩具般的小盐罐。粗黑轮廓，干净的漫画半调阴影。高对比度青色与洋红色霓虹荧光。背景为深炭灰色与鲜艳青色放射线速度线。干净头像，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_食鸟鸭_v5.png"
+  },
+  {
+    "task_id": "duck_cannibal_v6",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A ravenous cartoon duck head biting down directly on a giant cartoon roasted chicken leg with a prominent clean bite mark. Wild, playful googly eyes (resembling cartoon aesthetics), no blood or gore, purely funny and greedy. Bold black ink outlines, clean flat pop-art colors. High contrast crimson red and deep violet sunburst background, extremely readable UI look, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只狼吞虎咽的卡通鸭头，直接一口咬在一根带有明显整齐咬痕的巨大卡通烤鸡腿上。狂野又好笑的搞怪大眼睛，没有任何血腥，纯粹幽默贪吃。粗黑墨水勾边，干净的波普纯色平涂。高对比度深红与深紫放射线背景，极易辨识的UI视觉，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_食鸟鸭_v6.png"
+  },
+  {
+    "task_id": "duck_witch_doctor_v1",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A sinister white cartoon duck wearing a black top hat adorned with a skull and crossbones, its eyes spiraling with hypnotic purple energy. It clutches a dark staff topped with a glowing purple gem close to its face. Bold black ink outlines, comic-style hatching shadows. High contrast violet and magenta lighting from below. Background of deep purple and electric violet radial speed lines with floating ice shards, clean composition, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只邪恶的白色卡通鸭戴着饰有骷髅和交叉骨头的黑色高顶礼帽，双眼旋转着催眠般的紫色能量。它将一根顶端嵌有发光紫宝石的暗色法杖紧贴脸旁。粗黑墨水勾边，漫画风格排线阴影。高对比度紫罗兰与品红光从下方打亮。背景为深紫与电紫放射线速度线，漂浮着冰碎片，干净构图，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_巫医_v1.png"
+  },
+  {
+    "task_id": "duck_witch_doctor_v2",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A dark-clad cartoon duck witch doctor with glowing purple spiral eyes, wearing a tall black hat with skull emblem. Its webbed hand raises a wooden staff crackling with violet lightning. Bold outlines, dramatic ink-wash hatching. High contrast electric purple and neon magenta underlighting illuminating its beak. Background of midnight blue and purple sunburst speed lines with crystalline shards, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只身着暗色的卡通鸭巫医，双眼发出紫色螺旋光，戴着饰有骷髅徽章的高黑帽。它蹼爪举起一根缠绕紫色闪电的木杖。粗黑轮廓，戏剧性墨水排线阴影。高对比度电紫与霓虹品红光从下方打亮鸭嘴。背景为午夜蓝与紫色放射线速度线，夹杂水晶碎片，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_巫医_v2.png"
+  },
+  {
+    "task_id": "duck_witch_doctor_v3",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. An ominous cartoon duck shaman with one eye spiraling purple and the other glowing solid violet, wearing a black top hat decorated with bone motifs. Dark cape collar visible. Its beak open in a wicked incantation, purple mist emanating from its mouth. Bold black ink outlines, comic halftone texture. High contrast purple and deep crimson glow. Background of dark magenta and violet concentric speed rings with shattering glass fragments, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只不祥的卡通鸭萨满，一只眼旋转着紫色光芒，另一只眼发出纯紫光，戴着饰有骨头图案的黑色高礼帽。可见暗色斗篷领口。鸭嘴张开发出邪恶咒语，紫色雾气从口中散发。粗黑墨水勾边，漫画半调纹理。高对比度紫色与深绯红光。背景为深品红与紫罗兰同心圆速度环线，碎裂玻璃碎片，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_巫医_v3.png"
+  },
+  {
+    "task_id": "duck_witch_doctor_v4",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A menacing cartoon duck wearing a weathered black top hat with a silver skull emblem, purple energy swirling in its spiral eyes. It holds a cursed totem staff radiating dark violet aura near its face. Bold black ink outlines, dramatic high-contrast ink hatching shadows. High contrast amethyst and teal glow reflecting from the totem onto its face. Background of deep indigo and purple radial speed lines with floating dark crystals, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只威胁性的卡通鸭戴着磨损的黑色高礼帽，帽上有银色骷髅徽章，双眼螺旋中旋绕着紫色能量。它将一根散发暗紫光环的诅咒图腾法杖举近脸旁。粗黑墨水勾边，戏剧性高对比度墨水排线阴影。高对比度紫水晶与青色光从图腾反射照亮鸭脸。背景为深靛蓝与紫色放射线速度线，漂浮暗色水晶，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_巫医_v4.png"
+  },
+  {
+    "task_id": "duck_witch_doctor_v5",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A mystical cartoon duck witch doctor with glowing purple spiral eyes, wearing a black top hat topped with a cartoon skull. It gestures dramatically with a clawed hand, purple energy tendrils spiraling around its fingers. Dark feathered collar visible. Bold outlines, clean comic shading. High contrast violet and lime green neon glow. Background of dark purple and chartreuse radial speed lines with floating obsidian shards, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只神秘的卡通鸭巫医，双眼发出紫色螺旋光，戴着顶部有卡通骷髅的黑色高礼帽。它用爪形手做出戏剧性手势，紫色能量触须围绕手指旋转。可见暗色羽毛领口。粗黑轮廓，干净漫画阴影。高对比度紫罗兰与青柠绿霓虹光。背景为深紫与黄绿放射线速度线，漂浮黑曜石碎片，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_巫医_v5.png"
+  },
+  {
+    "task_id": "duck_witch_doctor_v6",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. An evil cartoon duck shaman with hypnotic purple spiral eyes, wearing a tall black top hat adorned with crossbones and a skull. It holds a dark staff with a glowing violet orb close to its cheek. Dark robes with skull-pattern trim visible. Bold black ink outlines, retro comic print texture. High contrast deep purple and electric magenta lighting. Background of royal purple and hot pink speed lines with shattering ice fragments, extremely readable, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只邪恶的卡通鸭萨满，双眼催眠般旋转着紫色漩涡，戴着饰有交叉骨头和骷髅的黑色高礼帽。它将一根顶端有发光紫球的暗色法杖举近脸颊。可见带骷髅图案边饰的暗色长袍。粗黑墨水勾边，复古漫画印刷纹理。高对比度深紫与电品红光。背景为皇紫与亮粉速度线，碎裂冰块碎片，极易辨识，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_巫医_v6.png"
+  },
+  {
+    "task_id": "duck_invisible_v1",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A translucent cartoon duck with a mischievous grin, its body partially see-through with ghostly cyan outlines. One eye winked shut, the other glowing with icy blue energy. Wisps of vapor trail from its beak. It wears a dark bandit mask. Bold black ink outlines on visible parts, comic-style hatching. High contrast cyan and silver lighting. Background of dark navy and electric blue radial speed lines with transparent echo copies of itself, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只半透明的卡通鸭带着调皮坏笑，身体部分可见冰青色轮廓线。一只眼眨着，另一只眼发出冰蓝色能量光。鸭嘴冒出丝丝蒸气。它戴着深色盗贼面罩。可见部分有粗黑墨水勾边，漫画风格排线阴影。高对比度青色与银色光。背景为深海军蓝与电蓝放射线速度线，有透明的自身重影副本，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_隐形_v1.png"
+  },
+  {
+    "task_id": "duck_invisible_v2",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A ghostly cartoon duck fading into transparency, only its outline and glowing white eyes visible against a dark background. Its beak curves into a sly smirk. Faint blue digital scan lines overlay its form. Bold outlines on remaining visible features, retro comic texture. High contrast white and cyan neon glow. Background of charcoal black and teal concentric rings with glitch distortion effects, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只幽灵般的卡通鸭逐渐变得透明，暗背景下仅剩轮廓和发光的白色眼睛可见。鸭嘴弯成狡黠坏笑。淡蓝色数字扫描线覆盖其形态。可见特征有粗黑轮廓，复古漫画纹理。高对比度白色与青色霓虹光。背景为炭黑与青色同心圆环，带故障失真效果，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_隐形_v2.png"
+  },
+  {
+    "task_id": "duck_invisible_v3",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A partially invisible cartoon duck, only its head and one hand emerging from a shimmering cloaking field. The visible parts show sharp black outlines while the rest dissolves into light particles. One eye glows bright white. Bold outlines, clean comic shading. High contrast silver and electric violet glow. Background of deep purple and silver particle streams with diamond-shaped energy fragments, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只部分隐形的卡通鸭，仅头部和一只手从闪烁的隐身力场中显现。可见部分有锐利的黑色轮廓，其余部分溶解成光粒子。一只眼发出明亮白光。粗黑轮廓，干净漫画阴影。高对比度银色与电紫光。背景为深紫与银色粒子流，菱形能量碎片，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_隐形_v3.png"
+  },
+  {
+    "task_id": "duck_invisible_v4",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A sneaky cartoon duck wrapped in an invisibility cloak, only its beak and glowing green eyes peeking out from the shimmering fabric. The cloak ripples with energy waves. Bold black ink outlines, comic halftone texture. High contrast emerald green and silver lighting. Background of dark forest green and chrome radial speed lines with swirling mist particles, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只鬼祟的卡通鸭裹在隐身斗篷中，仅鸭嘴和发光的绿眼从闪烁的织物中窥视。斗篷泛起能量波纹。粗黑墨水勾边，漫画半调纹理。高对比度翡翠绿与银色光。背景为深森林绿与铬色放射线速度线，旋转雾气粒子，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_隐形_v4.png"
+  },
+  {
+    "task_id": "duck_invisible_v5",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A mischievous cartoon duck phasing out of visibility, half its face solid with bold outlines, the other half dissolving into blue digital pixels and light beams. One visible eye twinkles with a devious gleam. Bold outlines, clean comic shading. High contrast ice blue and white neon glow. Background of midnight black and arctic blue radial speed lines with floating holographic fragments, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只调皮的卡通鸭逐渐消失，半张脸有粗黑轮廓清晰可见，另一半脸溶解成蓝色数字像素和光束。一只可见的眼睛闪烁着狡黠光芒。粗黑轮廓，干净漫画阴影。高对比度冰蓝与白色霓虹光。背景为午夜黑与北极蓝放射线速度线，漂浮全息碎片，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_隐形_v5.png"
+  },
+  {
+    "task_id": "duck_invisible_v6",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. An almost fully invisible cartoon duck, only a faint outline and two bright white glowing eyes remain visible. Its beak shape barely perceptible. Light refracts around its form creating rainbow prism edges. Bold white outlines, retro comic print texture. High contrast pure white and prismatic glow. Background of solid black and white concentric speed rings with light refraction rainbows, extremely clean, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只几乎完全隐形的卡通鸭，仅剩淡淡轮廓和两个明亮的白色发光眼可见。鸭嘴形状几乎不可感知。光线在其形态周围折射形成彩虹棱镜边缘。粗黑白色轮廓，复古漫画印刷纹理。高对比度纯白与棱镜光。背景为纯黑与白色同心圆速度环线，光线折射彩虹，极干净，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_隐形_v6.png"
+  },
+  {
+    "task_id": "duck_assassin_v1",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A cold, ruthless cartoon duck assassin wearing a dark hooded cloak, its eyes glowing with deadly crimson red. A thin scar runs across one eye. It holds a gleaming silver dagger close to its face. Bold black ink outlines, dramatic ink-wash hatching. High contrast blood red and charcoal lighting. Background of deep black and scarlet radial speed lines with falling cherry blossom petals, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只冷酷无情的卡通鸭刺客戴着深色兜帽斗篷，双眼发出致命的绯红光。一道细长伤疤横跨一只眼。它将一把闪亮的银匕首举近脸旁。粗黑墨水勾边，戏剧性墨水排线阴影。高对比度血红与炭灰光。背景为深黑与绯红放射线速度线，飘落樱花花瓣，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_专杀_v1.png"
+  },
+  {
+    "task_id": "duck_assassin_v2",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A menacing cartoon duck assassin in black tactical gear, its eyes narrowed with predatory focus glowing amber gold. Sharp metal claws extended near its beak. Dark war paint markings under its eyes. Bold outlines, action-style fragmented hatching. High contrast gold and obsidian black lighting. Background of dark bronze and gold sunburst speed lines with shuriken star silhouettes, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只威胁性的卡通鸭刺客穿着黑色战术装备，双眼眯起带着掠食般的专注发出琥珀金光。锋利的金属爪子在鸭嘴旁伸出。眼下有深色战纹标记。粗黑轮廓，动作风格碎片排线阴影。高对比度金色与黑曜石黑光。背景为深青铜与金色放射线速度线，手里剑星形剪影，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_专杀_v2.png"
+  },
+  {
+    "task_id": "duck_assassin_v3",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A shadowy cartoon duck hitman with half its face in darkness, one glowing neon purple eye piercing through the shadows. It wears a dark fedora hat tilted low. A katana blade reflects light near its cheek. Bold black ink outlines, comic halftone texture. High contrast neon purple and deep shadow. Background of pitch black and violet concentric speed rings with smoke wisps, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只暗影中的卡通鸭杀手，半张脸隐于黑暗，一只霓虹紫色眼睛穿透阴影发出光芒。它戴着压低的深色软呢帽。一把武士刀刃在脸颊旁反射光芒。粗黑墨水勾边，漫画半调纹理。高对比度霓虹紫与深影。背景为漆黑与紫罗兰同心圆速度环线，烟雾缭绕，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_专杀_v3.png"
+  },
+  {
+    "task_id": "duck_assassin_v4",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A deadly cartoon duck executioner with a skull-like white face paint, dark hollow eye sockets glowing with sinister green fire. It grips a massive ornate axe near its face. Dark chain links visible around its neck. Bold outlines, dramatic high-contrast ink hatching. High contrast toxic green and bone white lighting. Background of dark olive and neon green radial speed lines with floating bone fragments, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只致命的卡通鸭刽子手，脸上涂着骷髅般的白色颜料，深陷的眼窝中燃烧着邪恶的绿色火焰。它将一把华丽巨大的斧头举近脸旁。可见脖子上缠绕着锁链。粗黑轮廓，戏剧性高对比度墨水排线阴影。高对比度毒绿与骨白光。背景为深橄榄与霓虹绿放射线速度线，漂浮骨头碎片，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_专杀_v4.png"
+  },
+  {
+    "task_id": "duck_assassin_v5",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A professional cartoon duck contract killer in a sleek black suit, its eyes cold and calculating with steely grey-blue glow. A thin cigar hangs from its beak, smoke curling upward. A gun barrel visible at the bottom edge of frame. Bold black ink outlines, clean comic shading. High contrast steel blue and silver lighting. Background of dark navy and chrome radial speed lines with bullet casings, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只专业的卡通鸭合同杀手穿着光滑黑色西装，双眼冷酷而精明发出钢蓝灰光。鸭嘴叼着一根细雪茄，烟雾向上缭绕。枪管从画面底部边缘可见。粗黑墨水勾边，干净漫画阴影。高对比度钢蓝与银色光。背景为深海军蓝与铬色放射线速度线，弹壳散落，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_专杀_v5.png"
+  },
+  {
+    "task_id": "duck_assassin_v6",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A terrifying cartoon duck slasher with a cracked hockey mask revealing one glowing orange eye underneath. It wields a bloody machete (cartoon red, no gore) held up near its face. Dark hooded sweatshirt. Bold black ink outlines, retro comic print texture. High contrast hellish orange and shadow black lighting. Background of deep crimson and burnt orange sunburst speed lines with dripping paint effects, extremely readable, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只恐怖的卡通鸭砍杀者戴着破裂的曲棍球面具，露出下方一只发光的橙色眼睛。它将一把沾血的砍刀（卡通红色，无血腥）举近脸旁。深色兜帽运动衫。粗黑墨水勾边，复古漫画印刷纹理。高对比度地狱橙与阴影黑光。背景为深绯红与焦橙放射线速度线，滴落油漆效果，极易辨识，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_专杀_v6.png"
+  }
+]

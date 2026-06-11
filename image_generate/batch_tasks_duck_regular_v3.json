@@ -1,0 +1,50 @@
+[
+  {
+    "task_id": "duck_regular_v1",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A white cartoon duck with a mischievous grin, holding a colorful plastic toy knife with bright red handle and silver-painted blade near its face. The toy knife has a harmless cartoonish look. Bold black ink outlines, comic-style hatching shadows. High contrast purple and lilac lighting from below. Background of deep purple and lavender radial speed lines, clean composition, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只白色卡通鸭带着调皮坏笑，将一把彩色塑料玩具刀（亮红色刀柄，银色涂漆刀刃）举近脸旁。玩具刀看起来无害卡通化。粗黑墨水勾边，漫画风格排线阴影。高对比度紫色与丁香光从下方打亮。背景为深紫与薰衣草放射线速度线，干净构图，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_鸭子_v1.png"
+  },
+  {
+    "task_id": "duck_regular_v2",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A white cartoon duck with narrowed scheming eyes, clutching a toy dagger with dark purple handle and light grey plastic blade close to its beak. Cartoonish proportions, clearly a toy. Bold outlines, dramatic ink-wash hatching. High contrast violet and magenta accent lighting. Background of royal purple and pink sunburst speed lines, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只白色卡通鸭眯着算计的眼睛，将一把深紫色刀柄、浅灰色塑料刀刃的玩具匕首握近鸭嘴。卡通比例，明显是玩具。粗黑轮廓，戏剧性墨水排线阴影。高对比度紫罗兰与品红点缀光。背景为皇紫与粉色放射线速度线，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_鸭子_v2.png"
+  },
+  {
+    "task_id": "duck_regular_v3",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A white cartoon duck with wide mischievous eyes and a curly smirk, holding a plastic toy sword with bright orange handle and light blue blade near its cheek. Playful toy proportions. Bold black ink outlines, retro comic print texture. High contrast plum purple and warm yellow lighting. Background of deep violet and gold concentric speed rings, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只白色卡通鸭睁大调皮眼睛，带着卷曲坏笑，将一把亮橙色刀柄、浅蓝色刀刃的塑料玩具剑举近脸颊。俏皮的玩具比例。粗黑墨水勾边，复古漫画印刷纹理。高对比度梅紫与暖黄光。背景为深紫与金色同心圆速度环线，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_鸭子_v3.png"
+  },
+  {
+    "task_id": "duck_regular_v4",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A white cartoon duck with half-closed devious eyes and a curled lip, gripping a cartoon toy cleaver with green handle and white plastic blade near its face. Exaggerated toy design. Bold outlines, clean comic shading. High contrast deep purple and lime green lighting. Background of dark magenta and chartreuse radial speed lines, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只白色卡通鸭半闭着狡诈的眼睛，嘴角卷起，将一把绿色刀柄、白色塑料刀刃的卡通玩具菜刀握近脸旁。夸张的玩具设计。粗黑轮廓，干净漫画阴影。高对比度深紫与青柠绿光。背景为深品红与黄绿放射线速度线，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_鸭子_v4.png"
+  },
+  {
+    "task_id": "duck_regular_v5",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A white cartoon duck with a confident playful stare, holding a toy knife with bright yellow handle and soft pink rubber blade near its face. Safe rounded toy edges. Bold black ink outlines, comic halftone texture. High contrast amethyst and teal lighting. Background of rich purple and cyan radial speed lines with sparkle effects, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只白色卡通鸭带着自信俏皮的凝视，将一把亮黄色刀柄、柔软粉色橡胶刀刃的玩具刀举近脸旁。安全的圆润玩具边缘。粗黑墨水勾边，漫画半调纹理。高对比度紫水晶与青色光。背景为浓郁紫与青色放射线速度线，闪光效果，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_鸭子_v5.png"
+  },
+  {
+    "task_id": "duck_regular_v6",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A white cartoon duck with a wicked gleam in its eyes, brandishing a toy switchblade with bright blue handle and light grey plastic blade near its cheek. Clearly a children's toy design. Bold outlines, clean flat pop-art colors. High contrast electric purple and hot pink lighting. Background of vivid purple and magenta sunburst speed lines, extremely readable, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只白色卡通鸭眼中闪烁邪恶光芒，将一把亮蓝色刀柄、浅灰色塑料刀刃的玩具弹簧刀举近脸颊旁。明显是儿童玩具设计。粗黑轮廓，干净波普纯色平涂。高对比度电紫与亮粉光。背景为鲜艳紫与品红放射线速度线，极易辨识，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_鸭子_v6.png"
+  }
+]

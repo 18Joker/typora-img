@@ -1,0 +1,33 @@
+{
+  "config": {
+    "output_base": "output",
+    "model": "agnes-image-2.1-flash",
+    "size": "1024x1024",
+    "concurrency": 2,
+    "retry": 2,
+    "retry_delay": 5
+  },
+  "tasks": [
+    {
+      "id": "duck_刺客",
+      "name": "鸭子 - 刺客",
+      "type": "text2img",
+      "prompt": "American retro superhero comic book style, 1:1 square avatar, extreme close-up portrait, head and shoulders only. A gray duck assassin wearing a black ninja mask covering lower beak, only sharp vengeful eyes visible, right claw holding a gleaming dagger across chest. Bold black ink outlines, pop-art halftone dot shading, high contrast dramatic lighting. Background: deep crimson and black dual-color radial burst lines. Retro saturated colors, cel-shaded flat coloring.",
+      "output": "duck/duck_刺客.png"
+    },
+    {
+      "id": "duck_专杀",
+      "name": "鸭子 - 专杀",
+      "type": "text2img",
+      "prompt": "American retro comic book style, 1:1 square avatar framing, extreme close-up head and shoulders. A blue-gray duck with manic grin and dilated pupils, feathers ruffled aggressively, right claw holding a bloodstained kitchen knife aloft. Thick black ink outlines, jagged hatching shadow lines, pop-art halftone dots. Strong backlighting, orange and deep blue high contrast. Background: orange-blue dual-color radial speed lines.",
+      "output": "duck/duck_专杀.png"
+    },
+    {
+      "id": "goose_侦探",
+      "name": "鹅 - 侦探",
+      "type": "text2img",
+      "prompt": "American retro detective comic style, 1:1 square avatar extreme close-up. A white goose wearing a classic deerstalker hat and plaid scarf, a monocle magnifying glass clipped over one eye, sharp investigative gaze, analyzing intently. Thick comic ink outlines, fine hatching shadows for mystery mood. Warm brown side lighting. Background: brown and beige dual-color radial lines with investigation board grid overlay.",
+      "output": "goose/goose_侦探.png"
+    }
+  ]
+}

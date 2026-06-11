@@ -1,0 +1,50 @@
+[
+  {
+    "task_id": "duck_regular_v1",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A white cartoon duck with a sly dangerous grin, holding a shiny silver kitchen knife with dark wooden handle near its face. The blade has a single drop of red blood on the tip. Bold black ink outlines, comic-style hatching shadows. High contrast purple and silver lighting from below. Background of deep purple and lilac radial speed lines, clean composition, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只白色卡通鸭带着狡猾危险的坏笑，将一把闪亮银色厨房刀（深色木柄）举近脸旁。刀尖有一滴红血。粗黑墨水勾边，漫画风格排线阴影。高对比度紫色与银色光从下方打亮。背景为深紫与丁香放射线速度线，干净构图，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_鸭子_v1.png"
+  },
+  {
+    "task_id": "duck_regular_v2",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A white cartoon duck with narrowed scheming eyes, clutching a combat knife with black handle and silver blade close to its beak. Two small blood drops on the blade edge. Bold outlines, dramatic ink-wash hatching. High contrast violet and crimson accent lighting. Background of royal purple and magenta sunburst speed lines, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只白色卡通鸭眯着算计的眼睛，将一把黑色刀柄银色刀刃的战斗刀握近鸭嘴。刀刃边缘有两滴小红血。粗黑轮廓，戏剧性墨水排线阴影。高对比度紫罗兰与绯红点缀光。背景为皇紫与品红放射线速度线，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_鸭子_v2.png"
+  },
+  {
+    "task_id": "duck_regular_v3",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A white cartoon duck with wide mischievous eyes and a curly smirk, holding a serrated hunting knife with brown handle angled near its cheek. Blood smear on the blade. Bold black ink outlines, retro comic print texture. High contrast plum purple and warm amber lighting. Background of deep violet and gold concentric speed rings with sparkle effects, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只白色卡通鸭睁大调皮眼睛，带着卷曲坏笑，将一把棕色刀柄的锯齿猎刀斜举近脸颊。刀刃上有血迹。粗黑墨水勾边，复古漫画印刷纹理。高对比度梅紫与暖琥珀光。背景为深紫与金色同心圆速度环线，闪光效果，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_鸭子_v3.png"
+  },
+  {
+    "task_id": "duck_regular_v4",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A white cartoon duck with half-closed devious eyes and a curled lip, gripping a butcher knife with wide silver blade near its face. A streak of red blood along the cutting edge. Bold outlines, clean comic shading. High contrast deep purple and scarlet lighting. Background of dark magenta and crimson radial speed lines, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只白色卡通鸭半闭着狡诈的眼睛，嘴角卷起，将一把宽银色刀刃的剁肉刀握近脸旁。刀刃边缘有一道红血迹。粗黑轮廓，干净漫画阴影。高对比度深紫与猩红光。背景为深品红与绯红放射线速度线，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_鸭子_v4.png"
+  },
+  {
+    "task_id": "duck_regular_v5",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A white cartoon duck with a confident predatory stare, holding a sleek dagger with ornate handle near its face. The polished blade reflects purple light with blood droplets. Bold black ink outlines, comic halftone texture. High contrast amethyst and silver lighting. Background of rich purple and white radial speed lines with energy sparks, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只白色卡通鸭带着自信掠食者般的凝视，将一把华丽刀柄的光滑匕首举近脸旁。抛光刀刃反射紫光，带有血滴。粗黑墨水勾边，漫画半调纹理。高对比度紫水晶与银色光。背景为浓郁紫与白色放射线速度线，能量火花，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_鸭子_v5.png"
+  },
+  {
+    "task_id": "duck_regular_v6",
+    "type": "text_to_image",
+    "prompt": "American retro comic book pop-art style, 1:1 square headshot extreme close-up. A white cartoon duck with a wicked gleam in its eyes, brandishing a switchblade knife with chrome blade extended near its cheek. Blood drops scatter from the blade. Bold outlines, clean flat pop-art colors. High contrast electric purple and hot pink lighting. Background of vivid purple and magenta sunburst speed lines, extremely readable, no body.",
+    "prompt_zh": "美式复古漫画波普风格，1：1正方形头像极近特写。一只白色卡通鸭眼中闪烁邪恶光芒，将一把展开的铬色刀刃弹簧刀举近脸颊旁。血滴从刀刃散落。粗黑轮廓，干净波普纯色平涂。高对比度电紫与亮粉光。背景为鲜艳紫与品红放射线速度线，极易辨识，无身体。",
+    "size": "1024x1024",
+    "output_path": "image2/duck/duck_鸭子_v6.png"
+  }
+]
