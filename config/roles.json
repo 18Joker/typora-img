@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "3.0.0",
   "slotCount": 15,
   "factions": [
     {
@@ -20,16 +20,16 @@
   ],
   "roles": [
     {
-      "id": "goose_10",
-      "name": "警长",
-      "faction": "goose",
-      "img": "/goose/goose_警长.png"
-    },
-    {
       "id": "goose_20",
       "name": "正义使者",
       "faction": "goose",
       "img": "/goose/goose_正义使者.png"
+    },
+    {
+      "id": "goose_10",
+      "name": "警长",
+      "faction": "goose",
+      "img": "/goose/goose_警长.png"
     },
     {
       "id": "goose_30",
