@@ -206,16 +206,16 @@
       "img": "/duck/duck_专杀.png"
     },
     {
-      "id": "duck_100",
-      "name": "忍者",
-      "faction": "duck",
-      "img": "/duck/duck_忍者.png"
-    },
-    {
-      "id": "duck_100",
+      "id": "duck_160",
       "name": "丘比特",
       "faction": "duck",
       "img": "/duck/duck_丘比特.png"
+    },
+    {
+      "id": "duck_150",
+      "name": "忍者",
+      "faction": "duck",
+      "img": "/duck/duck_忍者.png"
     },
     {
       "id": "duck_30",
